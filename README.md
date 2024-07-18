@@ -1,2 +1,3 @@
 # Genetic-TSP-solver
 Implemented a Genetic Algorithm in C++ to solve the Traveling Salesman Problem (TSP), demonstrating proficiency in algorithmic optimization and problem-solving.
+I used C++ to create a Genetic Algorithm that solves the Traveling Salesman Problem (TSP). This involved designing an efficient method to find the shortest route visiting multiple cities. I focused on optimizing the algorithm to handle complex calculations quickly, using techniques like parallel computing and specialized data structures. This project showcased my skills in designing algorithms, optimizing performance, and solving challenging computational problems.
